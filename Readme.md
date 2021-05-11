@@ -1,6 +1,6 @@
 Lecutra del valor del ADC de la PocketBeagle utilzando C++ (OOP)
 
-La PocketBragle cuenta con un ADCs de 12 bits (0 a 4095) referenciados a 3.3V.
+La PocketBeagle cuenta con un ADCs de 12 bits (0 a 4095) referenciados a 3.3V.
 
 El script lee el valor del ADC0 del dispositivo y lo muestra en la pantalla.
 
